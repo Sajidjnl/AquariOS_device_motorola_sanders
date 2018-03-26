@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aquarios.mk
+    $(LOCAL_DIR)/colt.mk
