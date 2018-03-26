@@ -19,7 +19,7 @@
 $(call inherit-product, device/motorola/sanders/full_sanders.mk)
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/aquarios/config/common_full_phone.mk)
+$(call inherit-product, vendor/coltos/config/common_full_phone.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
@@ -27,7 +27,7 @@ TARGET_SCREEN_HEIGHT := 1920
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := sanders
-PRODUCT_NAME := aquarios_sanders
+PRODUCT_NAME := colt_sanders
 PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_MODEL := Moto G5s Plus
