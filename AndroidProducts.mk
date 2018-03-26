@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/poly.mk
+    $(LOCAL_DIR)/aquarios.mk
